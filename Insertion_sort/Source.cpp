@@ -32,7 +32,7 @@ int main(void)
 	}
 	cout << endl;
 
-	//Body for insertuin sort
+	//Body of insertion sort
 	int j;
 	int tmp = 0;
 	for (int i = 1;  i < num_order.size(); i++)
